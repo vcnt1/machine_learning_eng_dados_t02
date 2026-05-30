@@ -1,6 +1,6 @@
 # Projeto 1: Precificação de Imóveis — California Housing
 
-> Pipeline de regressão supervisionada para prever o valor mediano de imóveis na Califórnia, do carregamento dos dados brutos à serialização para produção.
+Pipeline de regressão supervisionada para prever o valor mediano de imóveis na Califórnia, do carregamento dos dados brutos à serialização para produção.
 
 ---
 
