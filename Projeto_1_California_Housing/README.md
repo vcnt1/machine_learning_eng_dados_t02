@@ -58,6 +58,19 @@ median_house_value predito
 
 ---
 
+## Regenerando o Pipeline
+
+O arquivo `pipeline_california.joblib` **não está no repositório** (binário grande e regenerável). Para recriá-lo, execute todas as células do notebook:
+
+```bash
+jupyter notebook Projeto_1_California_Housing.ipynb
+# Kernel → Restart & Run All
+```
+
+O arquivo será gerado automaticamente pelo Passo 6.
+
+---
+
 ## Simulação de Produção
 
 ```python
